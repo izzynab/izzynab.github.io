@@ -189,6 +189,9 @@ GEM
     jekyll-theme-cayman (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
+    jekyll-theme-console (0.4.0)
+      jekyll (>= 3.5)
+      jekyll-seo-tag
     jekyll-theme-dinky (0.2.0)
       jekyll (> 3.5, < 5.0)
       jekyll-seo-tag (~> 2.0)
@@ -304,6 +307,7 @@ DEPENDENCIES
   jekyll-include-cache
   jekyll-paginate
   jekyll-sitemap
+  jekyll-theme-console
   jemoji
   tzinfo-data
   wdm (~> 0.1.0)
