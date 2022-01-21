@@ -1,17 +1,13 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: High School
+  from: 2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: I decided to became a software engineer and started learning c++.
+                 After a while, I started learning UE 4. Then I learned about OpenGL and all sorts of 
+                 rendering techniques and created my own little game engine project.
+                Later on, I started learning Unity. I made my first lame mobile game and learned a lot about shaders and
+                and workflow in general In the meantime I learned how to use Blender, and to satisfy my curiosity I also tried to 
+                learn a bit of houdini and Davinci Resolve.
+                
+                I am currently creating my second mobile game. I am also planning to sell the shaders developed for the sake of this game
+                on the unity asset store.
+                

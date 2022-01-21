@@ -1,7 +1,21 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+#color: secondary / success / danger / warning / info / light / dark 
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Unity
+  percentage: 70
+  color: info
+  
+- name: MS Visual Studio
+  percentage: 60
   color: success
+
+- name: Github
+  percentage: 55
+  color: dark
+  
+- name: Blender
+  percentage: 40
+  color: 
+  
+- name: UE4
+  percentage: 20
+  color: danger
