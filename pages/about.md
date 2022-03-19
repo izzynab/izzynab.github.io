@@ -8,7 +8,8 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I like making nice looking stuff on the computer using code.
+I'm mainly interested in writing shaders and creating VFX.
+Currenly, I spend most of my time creating unity assets.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

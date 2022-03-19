@@ -1,19 +1,19 @@
-- name: C++
-  percentage: 75
-  color: danger
-
-- name: C#
-  percentage: 60
-  color: success 
+- name: C++ & C#
+  percentage: 70
+  color: success
 
 - name: OpenGL
   percentage: 50
   color: info 
   
-- name: Cg/HLSL/GLSL
-  percentage: 30
+- name: Cg/HLSL/GLSL & Visual Scripting
+  percentage: 60
   color: info 
   
 - name: MySQL
   percentage: 20
   color: dark 
+  
+- name: Python
+  percentage: 10
+  color:  

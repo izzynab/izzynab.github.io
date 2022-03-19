@@ -1,18 +1,14 @@
 #color: secondary / success / danger / warning / info / light / dark 
 
 - name: Unity
-  percentage: 70
+  percentage: 80
   color: info
   
 - name: MS Visual Studio
   percentage: 60
   color: success
-
-- name: Github
-  percentage: 55
-  color: dark
   
-- name: Blender
+- name: Blender, Houdini, Substance
   percentage: 40
   color: 
   
