@@ -5,11 +5,11 @@
   color: info
   
 - name: MS Visual Studio
-  percentage: 60
+  percentage: 70
   color: success
   
 - name: Blender, Houdini, Substance
-  percentage: 40
+  percentage: 35
   color: 
   
 - name: UE4

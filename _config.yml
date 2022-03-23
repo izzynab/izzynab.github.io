@@ -1,6 +1,6 @@
 ### Site Settings ###
 title               : izzynab
-description         : >-
+description         : 
                       I write code.
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -42,7 +42,7 @@ author:
 # twitch            : your_username
   twitter           : handlarzziela
 # vimeo             : your_username
- youtube           : izzynab
+  youtube           : izzynab
 # keybase           : your_username
 
 

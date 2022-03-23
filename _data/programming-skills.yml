@@ -2,13 +2,14 @@
   percentage: 70
   color: success
 
+- name: Cg/HLSL/GLSL & Visual Scripting
+  percentage: 65
+  color: info 
+  
 - name: OpenGL
   percentage: 50
   color: info 
   
-- name: Cg/HLSL/GLSL & Visual Scripting
-  percentage: 60
-  color: info 
   
 - name: MySQL
   percentage: 20
