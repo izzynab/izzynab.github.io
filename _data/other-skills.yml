@@ -1,7 +1,7 @@
 #color: secondary / success / danger / warning / info / light / dark 
 
 - name: Unity
-  percentage: 80
+  percentage: 90
   color: info
   
 - name: MS Visual Studio
@@ -9,9 +9,9 @@
   color: success
   
 - name: Blender, Houdini, Substance
-  percentage: 35
+  percentage: 60
   color: 
   
 - name: UE4
-  percentage: 20
+  percentage: 35
   color: danger

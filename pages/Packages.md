@@ -5,6 +5,6 @@ permalink: /contact/
 weight: 2
 ---
 
-#### If you need to contact me
+#### Support:
 
-You can email me at izzynab.publisher@gmail.com
+izzynab.publisher@gmail.com

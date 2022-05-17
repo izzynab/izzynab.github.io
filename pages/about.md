@@ -7,9 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I'm mainly interested in writing shaders and creating VFX.
-Currenly, I spend most of my time creating unity assets.
+I am a freelance programmer.
+I write shaders, code and create real-time visual effects.
+My main focus is to create unity assets.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

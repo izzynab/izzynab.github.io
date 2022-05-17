@@ -1,7 +1,7 @@
 ### Site Settings ###
-title               : izzynab
+title               : INab Studios
 description         : 
-                      I write code.
+                      Shaders, code and art with ❤️
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : izzynab/izzynab.github.io  # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
@@ -23,8 +23,8 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Tomasz Pabis
-  image             : https://i.imgur.com/YHs6Tem.jpg
+  name              : INab Studios
+  image             : https://i.imgur.com/Ndzn54X.png
 #  behance           : izzynab
 # dribbble          : your_username
   email             : izzynab.publisher@gmail.com
@@ -42,7 +42,7 @@ author:
 # twitch            : your_username
   twitter           : izzynab
 # vimeo             : your_username
-#  youtube           : izzynab
+ # youtube           : INab Studios
 # keybase           : your_username
 
 
