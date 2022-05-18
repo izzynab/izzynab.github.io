@@ -9,12 +9,8 @@ weight: 3
 
 I am a freelance programmer.
 I write shaders, code and create real-time visual effects.
-My main focus is to create unity assets.
 
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
+{% include elements/button.html link="https://assetstore.unity.com/publishers/60810" text="Checkout my Assets on the Unity Asset Store" block=true %}
 
 <div class="row">
 {% include about/timeline.html %}
